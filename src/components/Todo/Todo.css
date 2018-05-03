@@ -1,0 +1,15 @@
+.item {
+    display: flex;
+    flex-direction: row;
+}
+
+.item>.index {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.item>.todo-item {
+    font-size: 18px;
+    color: brown;
+    margin-right: 25px;
+}
